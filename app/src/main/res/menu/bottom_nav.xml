@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/myCar"
+        android:title="My Car"
+        android:icon="@drawable/ic_nvbar_mycar"
+        >
+    </item>
+    <item
+        android:id="@+id/freeSpots"
+        android:title="Free Spots"
+        android:icon="@drawable/ic_nvbar_freespot"
+        >
+    </item>
+    <item
+        android:id="@+id/prof"
+        android:title="Profile"
+        android:icon="@drawable/ic_nvbar_profile"
+
+        >
+    </item>
+</menu>
